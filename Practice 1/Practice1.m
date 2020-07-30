@@ -1,9 +1,9 @@
-%1.Clear all variables
+%%1.Clear all variables
 clear all
 close all
-%2.Clear the window command
+%%2.Clear the window command
 clc
-%3.Store as variables and execute the following operations( see readme.md)  
+%%3.Store as variables and execute the following operations( see readme.md)  
 a=5-8+32
 b=sqrt(9-2+1)
 c=nthroot(210,3)
